@@ -38,11 +38,9 @@ A clean, modern, and user-friendly **To-Do List** web app built with HTML, CSS, 
 ---
 
 ## 🚀 How to Use
-
-1. Clone the repository:
    ```bash
 1. Clone the repo:
-git clone https://github.com/vinaya2007/To-do List.git
+git clone https://github.com/vinaya2007/To-do-List.git
 
 
 2. Navigate to the project folder:
