@@ -6,7 +6,7 @@ A clean, modern, and user-friendly **To-Do List** web app built with HTML, CSS, 
 
 ## 🖼️ Preview
 
-![To-Do List Screenshot](./To-do-List.png)
+![To-Do List Screenshot](./To-do-List.jpg)
 
 ---
 
