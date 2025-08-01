@@ -44,7 +44,7 @@ git clone https://github.com/vinaya2007/To-do-List.git
 
 
 2. Navigate to the project folder:
-cd bookPad
+cd To-do-List
 
 3. Open index.html in your browser.
 
